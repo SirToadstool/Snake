@@ -1,0 +1,11 @@
+body * {
+  margin: 5px;
+}
+
+input {
+  display: inline-block;
+}
+
+canvas {
+  border: 2px solid black;
+}
